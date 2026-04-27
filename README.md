@@ -45,7 +45,7 @@ While security is the long-term focus, this project demonstrates the software an
 
 ## What I'm Looking For
 
-Interested in cybersecurity internships and entry-level roles in areas such as SOC analysis, digital forensics, incident response, vulnerability management, junior security engineering, and security-focused systems administration.
+Interested in cybersecurity internships and entry-level roles in areas such as Cloud security, SOC analysis, digital forensics, incident response, vulnerability management, junior security engineering, and security-focused systems administration.
 
 ## Interests
 
