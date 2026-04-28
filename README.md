@@ -4,7 +4,7 @@ Cybersecurity student focused on internships and entry-level roles in security o
 
 ## About Me
 
-Cybersecurity student at the University of Central Lancashire with practical experience across digital forensics, Linux-based vulnerability work, information security management, network infrastructure, and secure software development.
+Cybersecurity student at the University of Lancashire with practical experience across digital forensics, Linux-based vulnerability work, information security management, network infrastructure, and secure software development.
 
 Current work is centred on building the technical and analytical skills needed for entry-level cybersecurity roles, with particular interest in SOC, DFIR, vulnerability management, and security-focused infrastructure support.
 
